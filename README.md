@@ -3,8 +3,8 @@
 ## About
 
 <p align="center">This repository is the repository for the Desktop Application 'Dofus Queuer'<br>
-Desk App Queuer is an CPP Application which communicate with <a href='/api-repo'>Dofus Queuer API</a><br>
-<a href='/web-repo'>Dofus Queuer Web App</a> exist too, check this out too</p>
+Desk App Queuer is an CPP Application which communicate with <a href='https://github.com/benjGam/DofusQueuer-API#readme'>Dofus Queuer API</a><br>
+<a href='https://github.com/benjGam/DofusQueuer-WebApp#readme'>Dofus Queuer Web App</a> exist too, check this out too</p>
 
 <details open>
 <summary><h2>To Do</h2></summary>
