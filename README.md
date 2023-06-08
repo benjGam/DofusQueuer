@@ -9,14 +9,12 @@ Desk App Queuer is an CPP Application which communicate with <a href='https://gi
 <details open>
 <summary><h2>To Do</h2></summary>
 
-- [ ] **Mise en place du Readme**
-- [ ] **Benchmark (Analyse de la concurence)**
+- [ ] **Doc Readme Build**
 
 <h3>Strategy etablishment</h3>
 
   - [ ] Context / Challenges / Problematics
-  - [ ] Persona
-  - [ ] Proposition stratégique
+  - [ ] Stategical proposition
 <h3>Functional Specifications</h3>
 
   - [ ] Management Rules
@@ -26,13 +24,6 @@ Desk App Queuer is an CPP Application which communicate with <a href='https://gi
   - [ ] Use-cases
   - [ ] Sequency Diagrams
   - [ ] Classes Diagrams
-<h3>Merise</h3>
-
-  - [ ] MCD
-  - [ ] MLD
-  - [ ] MPD
-  - [ ] RBAC
-</details>
 
 ## License
 
